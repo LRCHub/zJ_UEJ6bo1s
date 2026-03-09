@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メリーゴーラウンド",
+  "base_artist": "FINLANDS",
+  "createdAt": "2026-03-09T11:49:29.559063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メリーゴーラウンド",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/01_メリーゴーラウンド_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メリーゴーラウンド",
+      "artist": "FINLANDS",
+      "has_synced": false,
+      "path": "select/pl_01_メリーゴーラウンド_FINLANDS.txt"
+    }
+  ]
+}
